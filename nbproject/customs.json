@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "onshow": {
+            "context": "input"
+        },
+        "size": {
+            "context": "input"
+        }
+    }
+}
